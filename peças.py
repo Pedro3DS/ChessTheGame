@@ -58,54 +58,54 @@ def peao_P8():
 
 # =========-TORRES B-===========
 def torre_B1():
-    print()
+    print("♖",end=" ")
 
 def torre_B2():
-    print()
+    print("♖",end=" ")
 # =============================
 # =========-CAVALOS B-===========
 def cavalo_B1():
-    print()
+    print("♘",end=" ")
 
 def cavalo_B2():
-    print()
+    print("♘",end=" ")
 # =============================
 # =========-BISPOS B-===========
 def bispo_B1():
-    print()
+    print("♗",end=" ")
 
 def bispo_B2():
-    print()
+    print("♗",end=" ")
 # =============================
 # =======-REI E RAINHA B-========
 def rei_B():
-    print()
+    print("♔",end=" ")
 
 def rainha_B():
-    print()
+    print("♕",end=" ")
 # =============================
 # ===========-PEÕS B-============
 def peao_B1():
-    print()
+    print("♙",end=" ")
 
 def peao_B2():
-    print()
+    print("♙",end=" ")
 
 def peao_B3():
-    print()
+    print("♙",end=" ")
 
 def peao_B4():
-    print()
+    print("♙",end=" ")
 
 def peao_B5():
-    print()
+    print("♙",end=" ")
 
 def peao_B6():
-    print()
+    print("♙",end=" ")
 
 def peao_B7():
-    print()
+    print("♙",end=" ")
     
 def peao_B8():
-    print()
+    print("♙",end=" ")
 # =============================
