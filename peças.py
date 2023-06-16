@@ -61,7 +61,7 @@ def torre_B1():
     print("♖",end=" ")
 
 def torre_B2():
-    print("♖",end=" ")
+    print("♖")
 # =============================
 # =========-CAVALOS B-===========
 def cavalo_B1():
