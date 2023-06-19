@@ -6,7 +6,7 @@ def torre_P1():
 
 
 def torre_P2():
-    print("  ♜ ",end=" ")
+    print("  ♜ ")
 
 # =============================
 # =========-CAVALOS P-===========
@@ -63,7 +63,7 @@ def peao_P7():
 
 
 def peao_P8():
-    print("  ♟ ",end=" ")    
+    print("  ♟ ")    
  
 # =============================
 
@@ -120,5 +120,5 @@ def peao_B7():
     print("♙",end=" ")
     
 def peao_B8():
-    print("♙",end=" ")
+    print("♙")
 # =============================
