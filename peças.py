@@ -2,68 +2,68 @@
 
 # =========-TORRES P-===========
 def torre_P1():
-    print("  ♜ ",end=" ")
+    print("♜",end=" ")
 
 
 def torre_P2():
-    print("  ♜ ")
+    print("♜")
 
 # =============================
 # =========-CAVALOS P-===========
 def cavalo_P1():
-    print("  ♞ ",end=" " )
+    print("♞",end=" " )
     
 def cavalo_P2():
-    print("  ♞ ",end=" " )
+    print("♞",end=" " )
   
 # =============================
 # =========-BISPOS P-===========
 def bispo_P1():
-    print("  ♝ ",end=" " )
+    print("♝",end=" " )
    
 def bispo_P2():
-    print("  ♝ ",end=" " )
+    print("♝",end=" " )
 
 # =============================
 # =======-REI E RAINHA P-========
 def rei_P():
-     print("  ♛ ",end=" " )   
+     print("♚",end=" " )   
 
 def rainha_P():
-    print("  ♚ ",end=" ")
+    print("♛",end=" ")
 
 # =============================
 # ===========-PEÕS P-============
 def peao_P1():
-    print("  ♟ ",end=" ")
+    print("♟",end=" ")
 
  
 def peao_P2():
-    print("  ♟ ",end=" ")
+    print("♟",end=" ")
 
 
 def peao_P3():
-     print("  ♟ ",end=" ")
+     print("♟",end=" ")
 
 
 def peao_P4():
-    print("  ♟ ",end=" ")
+    print("♟",end=" ")
 
 
 def peao_P5():
-     print("  ♟ ",end=" ")
+     print("♟",end=" ")
 
 
 def peao_P6():
-    print("  ♟ ",end=" ")
+    print("♟",end=" ")
 
 
 def peao_P7():
-    print("  ♟ ",end=" ")
+    print("♟",end=" ")
 
 
 def peao_P8():
-    print("  ♟ ")    
+    print("♟")    
  
 # =============================
 
